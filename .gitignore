@@ -40,3 +40,4 @@ next-env.d.ts
 .genkit/*
 codebase_export.ps1
 output.txt
+.env.local
